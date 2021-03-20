@@ -7,3 +7,6 @@ git status
 git add
 git commit
 ```
+- sdasdass
+- asdasd
+- dsadsd

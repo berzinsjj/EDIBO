@@ -1,8 +1,8 @@
 # EDIBO
 EDIBO (elektroniska klade)
 lalalalla:
-...
-sdsds
-dfsdfsd
-sfsdfsdf
-...
+```
+git status
+git add
+git commit
+```
